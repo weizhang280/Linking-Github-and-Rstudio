@@ -1,11 +1,10 @@
 The compiled HTML version is available from https://weizhang280.github.io/Linking-Github-and-Rstudio/  
 
----
-title: "Practical Machine Learning Project"
-author: "Wei Zhang"
-date: "10/10/2020"
-output: html_document
----
+title: "Practical Machine Learning Project"  
+author: "Wei Zhang"  
+date: "10/10/2020"  
+output: html_document  
+
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE, message = F, warning = F)
