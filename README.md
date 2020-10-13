@@ -167,5 +167,6 @@ Compare with Random Forest without PCA(RF), Random Forest with PCA has lower acc
 
 ### Predicton with Random Forest (without PCA) on validation data
 ```{r}
-predict(modelFit_rf,newdata=validation.raw)
+predict <- predict(modelFit_rf,newdata=validation.raw)
+predict
 ```
