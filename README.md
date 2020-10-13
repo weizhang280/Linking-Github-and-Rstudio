@@ -1,3 +1,5 @@
+The compiled HTML version is available from https://weizhang280.github.io/Linking-Github-and-Rstudio/  
+
 ---
 title: "Practical Machine Learning Project"
 author: "Wei Zhang"
@@ -167,6 +169,5 @@ Compare with Random Forest without PCA(RF), Random Forest with PCA has lower acc
 
 ### Predicton with Random Forest (without PCA) on validation data
 ```{r}
-predict <- predict(modelFit_rf,newdata=validation.raw)
-predict
+predict(modelFit_rf,newdata=validation.raw)
 ```
