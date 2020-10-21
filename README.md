@@ -1,4 +1,4 @@
-The compiled HTML version is available from https://weizhang280.github.io/Linking-Github-and-Rstudio/  
+The compiled HTML version is available from https://weizhang280.github.io/machine-learning/  
 
 title: "Practical Machine Learning Project"  
 author: "Wei Zhang"  
